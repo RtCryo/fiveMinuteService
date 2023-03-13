@@ -1,0 +1,6 @@
+insert into customers (name) values ('John')
+insert into customers (name) values ('Marry')
+insert into customers (name) values ('Tom')
+insert into customers (name) values ('Ufe')
+insert into customers (name) values ('Porta')
+insert into customers (name) values ('Luna')
